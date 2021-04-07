@@ -1,0 +1,31 @@
+.container-fluid {
+  padding: 0!important;
+  margin: 0;
+}
+
+.navbar-brand {
+  background-image: url('../images/tree-symbol.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 5rem;
+  height: 5rem;
+}
+
+.home {
+  width: 100%;
+  height: 48rem;
+  background-image: url('../images/university-main.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.navbar {
+  background-color: none!important;
+}
+
+.navbar:hover{
+  background-color: #f8f9fa!important;
+  transition-duration: 2s;
+
+}
